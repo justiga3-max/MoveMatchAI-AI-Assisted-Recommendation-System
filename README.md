@@ -13,4 +13,4 @@ A user types a short description of what they want in a place to live (for examp
 
 | Input                      | Output                    |
 |----------------------------|---------------------------|
-| ![Input](input_example.png) | ![Output](output_example.png) |
+| ![Input](Movematch_input_example.png) | ![Output](Movematch_output_example.png) |
